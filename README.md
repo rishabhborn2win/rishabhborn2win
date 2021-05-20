@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Projects**
 
-- 👨‍💻 All of my projects are available at [rishabhborn2win.github.io/portfolio](rishabhborn2win.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [rishabhborn2win.github.io/portfolio](https://rishabhborn2win.github.io/portfolio)
 
 - 💬 Ask me about **React, Node & PHP**
 
