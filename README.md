@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhborn2win&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhborn2win" /> </p>
 
-- 🔭 I’m currently working on [PRECycle](https://precyclenitp.herokuapp.com)
+- 🔭 I’m currently working on [Charges By Tenants](https://github.com/gdscnitp)
 
 - 🌱 I’m currently learning **React Native**
 
